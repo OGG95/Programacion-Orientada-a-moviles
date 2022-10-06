@@ -28,5 +28,5 @@
         android:text=""
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        android:hint="Ingrese texto"/>
+        android:hint="Ingrese el ID a buscar"/>
 </androidx.constraintlayout.widget.ConstraintLayout>
